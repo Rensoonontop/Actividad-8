@@ -1,0 +1,24 @@
+title {
+  color: blue
+}
+
+body {
+  background: var(--color-fondo);
+  color: var(--color-texto);
+}
+
+h1 {
+  color: darkgreen
+}
+
+h2 {
+  color: rgb(255, 0, 212)
+}
+
+footer {
+  color : white
+}
+ 
+button {
+  color: rgb(200, 255, 0)
+}
