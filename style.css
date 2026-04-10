@@ -2,11 +2,10 @@ title {
   color: blue
 }
 
-body {
-  background: var(--color-fondo);
-  color: var(--color-texto);
-}
 
+body {
+            background-color: black
+        }
 h1 {
   color: rgb(255, 0, 0)
 }
